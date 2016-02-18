@@ -1,0 +1,1 @@
+const gl = require('node-webgl/index');
